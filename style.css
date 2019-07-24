@@ -1,1 +1,11 @@
-
+body{
+    color: white;
+    text-align:center;
+    background-color: pink;
+    background-image: url("./books.jpeg");
+div{
+    background-color: pink;
+}
+img{
+    Width: 25%;
+}
